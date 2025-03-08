@@ -31,40 +31,7 @@ This project employs **Agent-Based Modelling (ABM)** to simulate the PageRank al
 - **Impact of Damping Factor**: Studied the influence of the damping factor on page rankings and how surfer behavior affects rankings.
 
 ## Visuals & Results
-
-### Impact of Different Calculation Methods
-
-Here, we analyze the impact of different calculation methods on the ranking process. The following images illustrate various calculations used in the project:
-
-![Calculation Method 1](images/projects/p5/1.png)
-![Calculation Method 2](images/projects/p5/2.png)
-![Calculation Method 3](images/projects/p5/3.png)
-
-### Experiment 1
-
-In this experiment, we analyze how **alterations in page connections** influence PageRank results:
-
-![Experiment 1 Image 1](images/projects/p5/4.png)
-![Experiment 1 Image 2](images/projects/p5/5.png)
-![Experiment 1 Image 3](images/projects/p5/6.png)
-![Experiment 1 Image 4](images/projects/p5/7.png)
-![Experiment 1 Image 5](images/projects/p5/8.png)
-
-### Experiment 2
-
-In this experiment, we compare the results of **Agent-Based Modelling vs. Real-World Rankings**:
-
-![Experiment 2 Image 1](images/projects/p5/9.png)
-![Experiment 2 Image 2](images/projects/p5/10.png)
-![Experiment 2 Image 3](images/projects/p5/11.png)
-![Experiment 2 Image 4](images/projects/p5/12.png)
-
-### Experiment 3
-
-In this experiment, we assess the **impact of the damping factor** on PageRank results:
-
-![Experiment 3 Image 1](images/projects/p5/13.png)
-![Experiment 3 Image 2](images/projects/p5/14.png)
+Check images.
 
 ## Conclusion
 
