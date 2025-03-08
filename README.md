@@ -79,8 +79,7 @@ Future work should focus on enhancing **relevancy measurements**, integrating **
 
 - **Key Learnings**: Agent-based modelling, PageRank algorithm analysis, network theory, comparative analysis.
 - **Tools Used**:
-  - **Agent-Based Modelling Tools** (Python, NetLogo, etc.)
+  - **Agent-Based Modelling Tools** (NetLogo)
   - **PageRank algorithm**
-  - **Data analysis** tools (Pandas, NumPy)
-  - **Visualization libraries** (Matplotlib, Seaborn)
+
 
